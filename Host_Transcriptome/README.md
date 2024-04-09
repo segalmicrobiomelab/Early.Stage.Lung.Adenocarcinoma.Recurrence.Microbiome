@@ -8,4 +8,4 @@
 2. MetaData (Surgical.Cohort.Map): A spreadsheet with samples in rows and metadata in columns
 
 Open R
-Follow Code early_lung_cancer_RNA_transcriptome
+Follow Code early_lung_cancer_code_for_github_RNA.R
